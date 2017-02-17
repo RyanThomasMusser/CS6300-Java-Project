@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Ryan/Desktop/6300Spring17rmusser3/Assignment4/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="128ad6fb19d46419bfd40583f6180713d512b99d">
+        <dex dex="/Users/Ryan/Desktop/6300Spring17rmusser3/Assignment4/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d2c9a2c88df58c24f3603a9629b7e8d95eac9f77/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Ryan/test6300/Assignment4/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/Ryan/test6300/Assignment4/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.1_db8dac7821f1f8016eb59d62069f6efbb50c565e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Ryan/Desktop/6300Spring17rmusser3/Assignment4/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/Ryan/Desktop/6300Spring17rmusser3/Assignment4/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.1_0d07816dbf087469d31b2141db7eec98c9d5241e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Ryan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/Users/Ryan/Desktop/6300Spring17rmusser3/Assignment4/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.1_b95c9e387c67efeb72c82c167dd68cc64b3a6ba3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Ryan/test6300/Assignment4/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4addc774b62ddecfdf97f4384665c480c8bffbdf">
+        <dex dex="/Users/Ryan/test6300/Assignment4/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c5c6a99e32fa4af764f5d38af4115a1ff26e844b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Ryan/test6300/Assignment4/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8d5287f12464655383617ee2b2d0ae3e142e767a">
+        <dex dex="/Users/Ryan/test6300/Assignment4/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a80cd484b95c9898150c8c9f5a92439a819c3ec3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Ryan/test6300/Assignment4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/Ryan/test6300/Assignment4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-22.2.1_7348c7fe2cba861e1db8ea68b98b81eb6db13139/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Ryan/test6300/Assignment4/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/Ryan/test6300/Assignment4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-22.2.1_39d8b4f348ebca4722a8e37e067e443845933e4f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Ryan/Desktop/6300Spring17rmusser3/Assignment4/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/Ryan/Desktop/6300Spring17rmusser3/Assignment4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-22.2.1_c7818e27c2e6735e636d1976ce76424ab7b1ad39/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Ryan/Desktop/6300Spring17rmusser3/Assignment4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/Ryan/Desktop/6300Spring17rmusser3/Assignment4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-22.2.1_7339774629f0ff330baa86bb103b5d4b723c021b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Ryan/Desktop/6300Spring17rmusser3/Assignment4/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f924a33d527876c6dc5153ac05dcbd872d145667">
+        <dex dex="/Users/Ryan/Desktop/6300Spring17rmusser3/Assignment4/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8293182e56e9a19fea93516e6a0a8f13bf1786f2/classes.dex" />
+    </item>
+
+</items>
